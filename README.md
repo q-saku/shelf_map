@@ -13,7 +13,7 @@ shelf_map
 
 Синтаксис
 --------
-    shelf_map [options] [drive]
+    shelf_map.py [options] [drive]
 
 Требования
 --------
